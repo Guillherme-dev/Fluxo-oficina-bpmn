@@ -60,7 +60,9 @@ Uma pequena rede de oficinas mecânicas enfrenta dificuldades no controle de ent
 
 O fluxo abaixo representa a interação entre as três raias principais do processo (**Cliente**, **Funcionário** e **Mecânico**), desde a entrega do veículo até a notificação de retirada:
 
-# ----------------------------------------INFELIZMENTE O SOFTWARE TEVE ERRO E NÃO ESTÁ SALVANDO O FIM DA TASK DO MECÂNICO CORRETAMENTE!!!!---------------------------------------------
+# INFELIZMENTE O SOFTWARE TEVE ERRO E NÃO ESTÁ SALVANDO O FIM DA TASK DO MECÂNICO CORRETAMENTE!!!!
 
-![alt text](image.png)
+![diagram](https://github.com/user-attachments/assets/7555c84e-0ba2-4e34-b05a-a17e380368e2)
+
+
 
