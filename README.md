@@ -62,7 +62,8 @@ O fluxo abaixo representa a interação entre as três raias principais do proce
 
 # INFELIZMENTE O SOFTWARE TEVE ERRO E NÃO ESTÁ SALVANDO O FIM DA TASK DO MECÂNICO CORRETAMENTE!!!!
 
-![diagram](https://github.com/user-attachments/assets/7555c84e-0ba2-4e34-b05a-a17e380368e2)
+<img width="1008" height="1796" alt="BPMN-oficina" src="https://github.com/user-attachments/assets/dfb9a6ad-99e1-4437-aab0-68e5579fdd78" />
+
 
 
 
